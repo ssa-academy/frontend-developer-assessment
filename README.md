@@ -6,14 +6,14 @@ Assessment for Frontend Developer
 
 This assessment is designed to test an examinee’s knowledge of Front-end Development and its implementations on VueJs framework.
 
-**Assessment Point System**: The assessment total is 27 points. Passing grade is 13.
-See breakdown below for more detail.
+**Assessment Point System**: The assessment total is 27 points. Passing grade is 13 points.
+See breakdown below for more details.
 | Points |
 | -----: |
 |     27 |
 
 **Asessment Duration**: Examinee is given 1.5 days to complete the assessment. On a separate spreadsheet, please log the time spent per functionality (start time and end time).
-For any questions regarding the exam please send inquiry to <a href="mailto:jonathan@ssagroup.com">jonathan@ssagroup.com</a> or HR.
+For any questions regarding the exam, please send inquiry to <a href="mailto:jonathan@ssagroup.com">jonathan@ssagroup.com</a> or HR.
 
 **Output**: Examinee is expected to send an email with attachment to their output files (preferably a zip file). Alternatively, examinee can attach a link to their GitHub Repository, Google Drive, Dropbox, or any other storage service to download the output if the file is too large to be attached on email, or for other reason.
 
@@ -23,7 +23,7 @@ For any questions regarding the exam please send inquiry to <a href="mailto:jona
 
 ##### Goal
 
-- [ ] Recreating Mockup Desing Into Web Page
+- [ ] Recreating Mockup Design Into a Web Page
 
 <br>
 
