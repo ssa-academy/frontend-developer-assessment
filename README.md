@@ -4,7 +4,7 @@ Assessment for Frontend Developer
 
 <br>
 
-This assessment is designed to test an examinee’s knowledge of Front-end Development and its implementations on VueJs framework. It is divided into 3 levels, with each feature having to be accomplished consecutively.
+This assessment is designed to test an examinee’s knowledge of Front-end Development and its implementations on VueJs framework.
 
 **Assessment Point System**: The assessment total is 27 points. Passing grade is 13.
 See breakdown below for more detail.
